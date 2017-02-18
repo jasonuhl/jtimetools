@@ -23,8 +23,10 @@ where I've needed sub-second synchronization.
 
 ## Usage
 
+```
 make
 LD_PRELOAD=./libtimewarp.so ./topofsec
+```
 
 
 ## Bugs
